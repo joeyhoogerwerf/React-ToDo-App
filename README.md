@@ -3,10 +3,10 @@ A little to-do app build with ReactJS.
 
 To-do's are saved with local storage.
 
-To edit this code navigate to root and:
+To edit this code, install package.json, navigate to root and run this in your terminal:
 
 ```javascript
-run gulp
+gulp
 ```
 
-and open index.html in the /build folder to see the result.
+next open index.html in the /build folder to see the result.
